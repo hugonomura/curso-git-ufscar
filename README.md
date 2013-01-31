@@ -8,7 +8,7 @@
 * http://rogerdudler.github.com/git-guide/index.pt_BR.html
   
 ## Instalação
-:* https://help.github.com/articles/installing-git-html-help
+* https://help.github.com/articles/installing-git-html-help
   
 ## Sites que usam git:
 * https://github.com/
